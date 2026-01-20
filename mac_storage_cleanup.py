@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#맥 스토리지에 쌓인 불필요한 파일을 확인하고 삭제하는 파이썬 프로그램
 import argparse
 import os
 import shlex
